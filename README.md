@@ -5,5 +5,15 @@
 ## 2. [TABLEAU](https://public.tableau.com/app/profile/lilqasr88)
 
 
+<details><summary>CLICK ME</summary>
+<p>
 
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
 
