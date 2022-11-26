@@ -1,5 +1,5 @@
 # HERE YOU CAN SEE THE PROJECTS I'VE CREATED  ON MY ROAD AS DATA ANALYST
-
+![divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
 **<details><summary>## 1. PYTHON</summary>**
 <p>
 
@@ -8,7 +8,7 @@
 </p>
 </details>
 
-![green-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
+![divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
 
 <details><summary>## 2. TABLEAU</summary>
 <p>
