@@ -1,6 +1,6 @@
 # HERE YOU CAN SEE THE PROJECTS I'VE CREATED  ON MY ROAD AS DATA ANALYST
 
-## 1. <details><summary>PYTHON</summary>
+<details><summary>1. PYTHON</summary>
 <p>
 
 ### [Building a dataset from files published on a website](https://github.com/lilqasr/Projects/tree/main/Projects_list/Python/Building%20dataset%20from%20website)
