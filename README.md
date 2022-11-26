@@ -1,4 +1,4 @@
-# HERE YOU CAN SEE THE PROJECTS I'VE CREATED  ON MY ROAD AS DATA ANALIST
+# HERE YOU CAN SEE THE PROJECTS I'VE CREATED  ON MY ROAD AS DATA ANALYST
 
 ## [PYTHON](https://github.com/lilqasr/Projects/tree/main/Projects_list/Python)
 
