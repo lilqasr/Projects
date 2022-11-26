@@ -4,6 +4,9 @@
 <p>
 
 #### [Building a dataset from files published on a website] (https://github.com/lilqasr/Projects/tree/main/Projects_list/Python/Building%20dataset%20from%20website)
+   
+</p>
+</details>
 
 ## 2. [TABLEAU](https://public.tableau.com/app/profile/lilqasr88)
 
