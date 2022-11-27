@@ -13,8 +13,8 @@
 <details><summary> 2. TABLEAU</summary>
 <p>
 
-## [Tableau Public profile](https://public.tableau.com/app/profile/lilqasr88)
-## [Others](https://public.tableau.com/app/profile/ep2ea)
+## [1. Tableau Public profile](https://public.tableau.com/app/profile/lilqasr88)
+## [2. Others](https://public.tableau.com/app/profile/ep2ea)
 </p>
 </details>
 
