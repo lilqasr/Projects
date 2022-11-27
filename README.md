@@ -1,7 +1,6 @@
 # HERE YOU CAN SEE THE PROJECTS I'VE CREATED  ON MY ROAD AS DATA ANALYST
 ![divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
-<details><summary> 1. PYTHON 
-   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </summary>
+<details><summary> [Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  </summary> 
 <p>
 
 #### [1. Building a dataset from files published on a website](https://github.com/lilqasr/Projects/tree/main/Projects_list/Python/Building%20dataset%20from%20website)
