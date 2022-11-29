@@ -5,6 +5,7 @@
  <p>
 
 #### [1. Building a dataset from files published on a website](https://github.com/lilqasr/Projects/tree/main/Projects_list/Python/Building%20dataset%20from%20website)
+#### [2. Cardiovascular Disease Analysis](https://github.com/lilqasr/Projects/tree/main/Projects_list/Python/Cardiovascular%20Disease%20Analysis)
    
 </p>
 </details>
