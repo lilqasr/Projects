@@ -22,4 +22,6 @@ After done the construction of the database, it was necessary to clean it, becau
 
 Once this cleaning was done, i created a new column for my database were i get the correct names of the intitutions. The unique values for that column was reduced significantly.
 
-## 3. [Analysis of the Dataframe]()
+## 3. [Analysis of the Dataframe](https://github.com/lilqasr/Projects/blob/main/Projects_list/Python/Building%20dataset%20from%20website/4-%20Built_Dataset_Analysis.ipynb)
+
+The main goal with this project was to search particulars Audits Reports, but in order to detect them, was necessary to build the database and download the files. But since the database was created i decided to make a short analysis of the data... short because the data with relevant information is few.
