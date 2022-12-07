@@ -121,14 +121,46 @@ In the case of the sector, I had to connect the data with the project, since the
 
 ![image](https://user-images.githubusercontent.com/112327873/205191956-ceb72b7b-17b1-489e-8ec2-2ed9616130c6.png)
 
+Finally, the only thing left to do was to merge the information of all the years in a single file. For this I had to make use of Python, since on Mac, the option to merge databases into a single file (through power query) is not yet available. Therefore, I copied each tab, which became the data for a single year, into a single file. 
 
+![image](https://user-images.githubusercontent.com/112327873/189502572-5e24ca4d-0e22-4241-8c5a-17ff0bc566ea.png)
 
+I did not know how to do this in Python, but I knew that with Pandas there was a solution and I found it in the community https://towardsdatascience.com/a-simple-trick-to-load-multiple-excel-worksheets-in-pandas-3fae4124345b; according to this author, you need to read the Excel file and convert it into a database dictionary. Once this is done, you need to concatenate the databases (for this you need to put the same names for the column headers).
+
+```python
+
+import pandas as pd
+
+df_dict = pd.read_excel('name and pathfile', sheet_name=None)
+
+pip2017_2022 = pd.concat(df_dict.values(), ignore_index=True)
+```
+
+## Cleaning the database
+
+Another challenged part of building this database was the cleaning. But What made easier the cleaning part was that there was an individual information guiding the connection of each part of the database, which was the "Fuente de financiamiento" column. In this case was necessary to homogenize the names of this, that changed dependingo on year registered. The same thing was necessary to apply for the "institucion" column, and with "sectores"
+
+To perform this task there is a tool called **[“Open refine”](https://openrefine.org/)**, that was created by the open source community to work on the cleaning of the "messy data". I found this extremely important when building this type of databases with a large number of records and when there is doubt about the homogenity of the information.
+
+The tool is so easy to use it, and it works with a runner program that opens in your default browser. Once is open you have to upload the file interested on cleaning, and after that it will send you to the final interface where you make the changes.
+
+![image](https://user-images.githubusercontent.com/112327873/205193631-fb0e888d-ca70-46cf-b308-b13813fa7b11.png)
+
+In order to homogenize the names i was interested on, it used the cluster option, that is presented in every column as an option to clean the data. With this, you can identify the values/records that are similar and could be the same.
+
+![image](https://user-images.githubusercontent.com/112327873/205193803-0154a609-d582-42a1-a8b5-334d9492af37.png)
+
+![image](https://user-images.githubusercontent.com/112327873/205193869-d99339fa-3810-4ed0-9afb-a8b395b83b6f.png)
+
+Once the cleaning is made, you can save the file in any data format. But then,  sometimes it is possible to repeat the process, because when you use the tool to analyse the data you can find out that there still remain uncleaned records.
+
+## DATA ANALYSIS
+
+The deep analysis of this data was made in a report that has not yet been published, but you can find a general analysis here:
+
+**[PIP_2017-2022_ANALYSIS](https://nbviewer.org/github/lilqasr/Projects/blob/main/Projects_list/Multi/Public%20Investment%20Program%20Nicaragua/Public_Investment_Program%202017-2022%20Analysis.ipynb)**
 
 
 [^1]: www.snip.gob.ni
 [^2]: http://snip.gob.ni/Portada/PipAnual
-[^3]: should be noted that the information published on this website is for all public investment in the non-financial public sector: 
-central government, public enterprises. It includes part of the public investment made by the municipal (local) governments, 
-which are financed through transfers from the central government; 
-it does not take into account the possible investments that these make with their own resources, 
-because in many cases there is a deficient accounting system.
+[^3]: should be noted that the information published on this website is for all public investment in the non-financial public sector: central government, public enterprises. It includes part of the public investment made by the municipal (local) governments, which are financed through transfers from the central government; it does not take into account the possible investments that these make with their own resources, because in many cases there is a deficient accounting system.
