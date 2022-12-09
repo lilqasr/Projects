@@ -1,5 +1,5 @@
 # PROJECT DESCRIPTION
 
-# EXTRACTING, CLEANING AND VISUALIZING NICARAGUA'S MUNICIPALITIES ELECTIONS RESULTS
+# Extracting, cleaning, and visualization of Nicaragua's Municipalities Elections Results
 
 
