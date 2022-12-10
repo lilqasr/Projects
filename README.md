@@ -6,7 +6,7 @@
 
 #### [1. Building a dataset from files published on a website](https://github.com/lilqasr/Projects/tree/main/Projects_list/Python/Building%20dataset%20from%20website)
 #### [2. Cardiovascular Disease Analysis](https://github.com/lilqasr/Projects/tree/main/Projects_list/Python/Cardiovascular%20Disease%20Analysis)
-#### [3. Building dataser to Analyze Public Investment Program in Nicaragua](https://github.com/lilqasr/Projects/tree/main/Projects_list/Multi/Public%20Investment%20Program%20Nicaragua)
+#### [3. Nicaragua's Municipality Elections Result](https://github.com/lilqasr/Projects/tree/main/Projects_list/Multi/Public%20Investment%20Program%20Nicaragua)
    
 </p>
 </details>
