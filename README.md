@@ -8,7 +8,7 @@
 #### [2. Cardiovascular Disease Analysis](https://github.com/lilqasr/Projects/tree/main/Projects_list/Python/Cardiovascular%20Disease%20Analysis)
 #### [3. Nicaragua Public Investment Program ANALYSIS](https://nbviewer.org/github/lilqasr/Projects/blob/main/Projects_list/Multi/Public%20Investment%20Program%20Nicaragua/Public_Investment_Program%202017-2022%20Analysis.ipynb)
 #### [4. Nicaragua's Municipality Elections Result](https://github.com/lilqasr/Projects/tree/main/Projects_list/Python/Nicaragua's-Municipality-Elections-Results)
-#### [5. Apartments for rental in Rome](https://github.com/lilqasr/Projects/tree/main/Projects_list/Python/Real_State_Roma)
+#### [5. Apartments for rent in Rome](https://github.com/lilqasr/Projects/tree/main/Projects_list/Python/Real_State_Roma)
    
 </p>
 </details>
