@@ -14,7 +14,7 @@
 </details>
 
 ![divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
-
+<img height="32" width="32" src="https://cdn.simpleicons.org/microsoftexcel/aqua" /> <img height="32" width="32" src="https://cdn.simpleicons.org/python/aqua" />
 <details><summary> 2. Multiple</summary>
 <p>
 
@@ -24,6 +24,7 @@
 
 ![divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
 
+<img height="32" width="32" src="https://cdn.simpleicons.org/tableau/aqua" />
 <details><summary> 3. TABLEAU</summary>
 <p>
 
