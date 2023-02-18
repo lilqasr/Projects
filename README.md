@@ -28,7 +28,7 @@
 <details><summary> 3. SQL</summary>
 <p>
 
-#### [1. Building dataset to Analyze Public Investment Program in Nicaragua](https://github.com/lilqasr/Projects/tree/main/Projects_list/Multi/Public%20Investment%20Program%20Nicaragua)
+#### [1. Last Year Spotify Streaming History](https://github.com/lilqasr/Projects/tree/main/Projects_list/SQL)
 </p>
 </details>
 
