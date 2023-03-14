@@ -1,3 +1,11 @@
+SELECT 
+    name
+FROM 
+    sqlite_schema
+WHERE 
+    type ='table' AND 
+    name NOT LIKE 'sqlite_%';
+
 SELECT COUNT(*) FROM Match;
 
 SELECT COUNT(DISTINCT(country_id)) FROM Match
